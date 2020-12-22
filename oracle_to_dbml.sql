@@ -12,9 +12,6 @@ A few lines are still marked with `to be done`. So feel free to give feedback or
                   
 **********************************************************************************/
 
-timestamp(6)(11) -> (11) weg
-long raw -> long
-
 ------------------------------------------
 -- a few prepared statements
 ------------------------------------------
