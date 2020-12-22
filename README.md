@@ -9,3 +9,5 @@ DBML offers tools themselves to convert SQL to DBML (see https://www.dbml.org/cl
 But this repository additionaly offers an SQL script, so you have another option. That means, generating a **DBML representation of your Oracle database** via SQL.
 
 This is a really simple script, but might help as a starting point. For us it does it's job very good... 
+
+We tested the results with https://dbdiagram.io/ and also generated a documentation website with https://dbdocs.io/.
