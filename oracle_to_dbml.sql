@@ -57,7 +57,6 @@ dv as (select banner from v$version where banner like 'Oracle%')
     where 1=1 
        and a.constraint_name = acc.constraint_name
        and a.owner = acc.owner
-       and a.owner = 'COGNOS_CONTENTSTORE'
     order by 
        acc.owner,
        acc.table_name, 
